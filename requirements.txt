@@ -1,0 +1,10 @@
+Admin: -Loans page (Loan status)
+	-users page (add user, delete user, edit user)
+	-Payments (add payments, display all payments)
+
+User: -Check payments(Home)
+	-Request Loan (previous loans and status)
+
+
+
+pip install flask flask_cors flask_bcrypt flask_socketio flask_jwt_extended psycopg2
